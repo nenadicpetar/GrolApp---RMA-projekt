@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GrolApp</string>
+    <string name="logout_button">Odjavite se</string>
+    <string name="username_holder">default_korisnicko_ime</string>
+    <string name="username_hint">Korisničko ime</string>
+    <string name="password_hint">Lozinka</string>
+    <string name="login_holder">Prijavite se</string>
+    <string name="not_registered_question">Niste registrirani?</string>
+    <string name="register_holder">Registrirajte se</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Nazivi trgovina -->
+    <string name="kaufland">Kaufland</string>
+    <string name="konzum">Konzum</string>
+    <string name="lidl">Lidl</string>
+    <string name="spar">Spar</string>
+
+    <string name="kaufland2">KAUFLAND</string>
+    <string name="spar2">SPAR</string>
+    <string name="lidl2">LIDL</string>
+    <string name="konzum2">KONZUM</string>
+
+    <!--  -->
+    <string name="naziv_proizvoda">Naziv proizvoda</string>
+    <string name="kolicina_proizvoda">Količina proizvoda</string>
+    <string name="spremi">Spremi</string>
+    <string name="lista_proizvoda">Lista proizvoda</string>
+    <string name="default_amount">5</string>
+    <string name="delete_string">X</string>
+
+    <string name="googleMapsKey">AIzaSyBCGz8DAs27R2pLYItk3IsCrOk5HWDOEwM</string>
+
+    <string name="konzum_gps_tag">45.55622279713613, 18.720565351514672</string>
+</resources>

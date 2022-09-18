@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_kauf"
+        android:enabled="true"
+        android:title="@string/kaufland2"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_spar"
+        android:enabled="true"
+        android:title="@string/spar2"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_lidl"
+        android:enabled="true"
+        android:title="@string/lidl2"
+        android:icon="@drawable/ic_baseline_phone_24"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_konz"
+        android:enabled="true"
+        android:title="@string/konzum2"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:showAsAction="ifRoom" />
+
+</menu>
